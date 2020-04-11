@@ -1,6 +1,6 @@
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
-/Users/sahir/projects/deploy-spring-boot-aws-eb/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
+/Users/sahir/projects/temp/spring-boot-rest-h2-aws-codepipeline/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
